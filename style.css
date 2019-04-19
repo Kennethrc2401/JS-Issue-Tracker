@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body {
+	background-color: silver;
+}
+
+.footer {
+	color: #000000;
+	font-size: 14px;
+}
